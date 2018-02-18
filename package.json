@@ -1,0 +1,7 @@
+{
+  "name": "pinboard-sheets-manager",
+  "version": "1.0.0",
+  "description": "Organize Pinboard from Google Sheets",
+  "main": "index.js",
+  "license": "MIT"
+}
